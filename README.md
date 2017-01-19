@@ -1,2 +1,2 @@
 # CoolPoem
-A very cool poem
+A very cool poem about weapons of war.
